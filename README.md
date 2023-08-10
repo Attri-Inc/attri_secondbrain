@@ -4,13 +4,7 @@
     <img src="./logo.png" alt="Attri-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
 
-[![Discord Follow](https://dcbadge.vercel.app/api/server/HUpRgp2HG8?style=flat)](https://discord.gg/HUpRgp2HG8)
-[![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)](https://github.com/stangirard/quivr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
-
 Attri, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
-
-[Roadmap here](https://brain.quivr.app/docs/roadmap)
 
 ## Key Features 🎯
 
@@ -31,24 +25,6 @@ Attri, your second brain, utilizes the power of GenerativeAI to store and retrie
   - Video
 - **Open Source**: Freedom is beautiful, and so is Attri. Open source and free to use.
 
-## Demo Highlights 🎥
-
-https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dca71f5
-
-## Disclaimer ⚠️
-
-For a little while, Attri will be only compatible with OpenAI API.
-
-If you want to use a Local LLM please refer to [v0.0.46](https://github.com/StanGirard/quivr/releases/tag/v0.0.46).
-
-This is due to us preparing a big feature and needing to clean the code a bit.
-
-## Getting Started 🚀
-
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
-
-You can find everything on the [documentation](https://brain.quivr.app/).
-
 ### Prerequisites 📋
 
 Ensure you have the following installed:
@@ -56,31 +32,13 @@ Ensure you have the following installed:
 - Docker
 - Docker Compose
 
-Additionally, you'll need a [Supabase](https://supabase.com/) account for:
-
 - Creating a new Supabase project
 - Supabase Project API key
 - Supabase Project URL
 
-### Installation Steps 💽
+### Installation Steps
 
-- **Step 0**: If needed, the installation is explained on Youtube [here](https://youtu.be/rC-s4QdfY80)
-
-- **Step 1**: Clone the repository using **one** of these commands:
-
-  - If you don't have an SSH key set up:
-
-  ```bash
-  git clone https://github.com/StanGirard/Attri.git && cd Attri
-  ```
-
-  - If you have an SSH key set up or want to add it ([guide here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
-
-  ```bash
-  git clone git@github.com:StanGirard/Attri.git && cd Attri
-  ```
-
-- **Step 2**: Use the install helper
+- **Step 1**: Use the install helper
 
   You can use the install_helper.sh script to setup your env files
 
@@ -142,47 +100,6 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
   docker compose -f docker-compose.dev.yml up --build
   ```
 
-## Contributors ✨
-
-Thanks go to these wonderful people:
-<a href="https://github.com/stangirard/quivr/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=stangirard/quivr" />
-</a>
-
-## Contribute 🤝
-
-Got a pull request? Open it, and we'll review it as soon as possible. Check out our project board [here](https://github.com/users/StanGirard/projects/5) to see what we're currently focused on, and feel free to bring your fresh ideas to the table!
-
-- [Open Issues](https://github.com/StanGirard/quivr/issues)
-- [Open Pull Requests](https://github.com/StanGirard/quivr/pulls)
-- [Good First Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-- [Frontend Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Afrontend)
-- [Backend Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Abackend)
-
-## Sponsors ❤️
-
-This project could not be possible without the support of our sponsors. Thank you for your support!
-
-<a href="https://www.theodo.fr/">
-  <img src="https://avatars.githubusercontent.com/u/332041?s=200&v=4" alt="Theodo" style="padding: 10px" width="70px">
-</a>
-<a href="https://www.padok.fr/">
-  <img src="https://avatars.githubusercontent.com/u/46325765?s=200&v=4" alt="Padok" style="padding: 10px" width="70px">
-</a>
-<a href="https://www.aleios.com/">
-  <img src="https://avatars.githubusercontent.com/u/97908131?s=200&v=4" alt="Aleios" style="padding: 10px" width="70px">
-</a>
-<a href="https://www.bam.tech/">
-  <img src="https://avatars.githubusercontent.com/u/9597329?s=200&v=4" alt="BAM" style="padding: 10px" width="70px">
-</a>
-<a href="https://www.sicara.fr/">
-  <img src="https://avatars.githubusercontent.com/u/23194788?s=200&v=4" alt="Sicara" style="padding: 10px" width="70px">
-</a>
-
 ## License 📄
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
-
-## Stars History 📈
-
-[![Star History Chart](https://api.star-history.com/svg?repos=StanGirard/quivr&type=Timeline)](https://star-history.com/#StanGirard/quivr&Timeline)
