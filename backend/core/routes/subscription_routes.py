@@ -78,7 +78,7 @@ def invite_users_to_brain(
         try:
             subscription_service.create_or_update_subscription_invitation(subscription)
             resend_invitation_email(
-                subscription, inviter_email=current_user.email or "Quivr", origin=origin
+                subscription, inviter_email=current_user.email or "Attri", origin=origin
             )
         except Exception as e:
             raise HTTPException(status_code=400, detail=f"Error inviting user: {e}")

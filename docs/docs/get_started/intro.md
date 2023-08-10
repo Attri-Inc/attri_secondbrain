@@ -5,13 +5,13 @@ title: Getting Started
 
 # Intro
 
-Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
+Attri, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
 
 ## Key Features 🎯
 
-- **Universal Data Acceptance**: Quivr can handle almost any type of data you throw at it. Text, images, code snippets, we've got you covered.
-- **Generative AI**: Quivr employs advanced AI to assist you in generating and retrieving information.
-- **Fast and Efficient**: Designed with speed and efficiency at its core. Quivr ensures rapid access to your data.
+- **Universal Data Acceptance**: Attri can handle almost any type of data you throw at it. Text, images, code snippets, we've got you covered.
+- **Generative AI**: Attri employs advanced AI to assist you in generating and retrieving information.
+- **Fast and Efficient**: Designed with speed and efficiency at its core. Attri ensures rapid access to your data.
 - **Secure**: Your data, your control. Always.
 - **File Compatibility**:
   - Text
@@ -22,7 +22,7 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
   - Word
   - Audio
   - Video
-- **Open Source**: Freedom is beautiful, so is Quivr. Open source and free to use.
+- **Open Source**: Freedom is beautiful, so is Attri. Open source and free to use.
 
 ## Demo Highlights 🎥
 
@@ -61,13 +61,13 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
   - If you don't have an SSH key set up:
 
   ```bash
-  git clone https://github.com/StanGirard/Quivr.git && cd Quivr
+  git clone https://github.com/StanGirard/Attri.git && cd Attri
   ```
 
   - If you have an SSH key set up or want to add it ([guide here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
 
   ```bash
-  git clone git@github.com:StanGirard/Quivr.git && cd Quivr
+  git clone git@github.com:StanGirard/Attri.git && cd Attri
   ```
 
 - **Step 2**: Copy the `.XXXXX_env` files
@@ -106,7 +106,7 @@ b. Use the `migration.sh` script to run the migration scripts
 
 All the scripts can be found in the [scripts](https://github.com/stangirard/quivr/tree/main/scripts) folder
 
-> _If you come from an old version of Quivr, run the scripts in [migration script](https://github.com/stangirard/quivr/tree/main/scripts) to migrate your data to the new version in the order of date_
+> _If you come from an old version of Attri, run the scripts in [migration script](https://github.com/stangirard/quivr/tree/main/scripts) to migrate your data to the new version in the order of date_
 
 - **Step 5**: Launch the app
 

@@ -1,23 +1,22 @@
-# Quivr - Your Second Brain, Empowered by Generative AI
+# Attri - Your Second Brain, Empowered by Generative AI
 
 <div align="center">
-    <img src="./logo.png" alt="Quivr-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
+    <img src="./logo.png" alt="Attri-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
-
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/HUpRgp2HG8?style=flat)](https://discord.gg/HUpRgp2HG8)
 [![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)](https://github.com/stangirard/quivr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
 
-Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
+Attri, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
 
 [Roadmap here](https://brain.quivr.app/docs/roadmap)
 
 ## Key Features 🎯
 
-- **Universal Data Acceptance**: Quivr can handle almost any type of data you throw at it. Text, images, code snippets, we've got you covered.
-- **Generative AI**: Quivr employs advanced AI to assist you in generating and retrieving information.
-- **Fast and Efficient**: Designed with speed and efficiency at its core. Quivr ensures rapid access to your data.
+- **Universal Data Acceptance**: Attri can handle almost any type of data you throw at it. Text, images, code snippets, we've got you covered.
+- **Generative AI**: Attri employs advanced AI to assist you in generating and retrieving information.
+- **Fast and Efficient**: Designed with speed and efficiency at its core. Attri ensures rapid access to your data.
 - **Secure**: Your data, your control. Always.
 - **OS Compatible**: Ubuntu 22 or upper.
 - **File Compatibility**:
@@ -30,7 +29,7 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
   - Word
   - Audio
   - Video
-- **Open Source**: Freedom is beautiful, and so is Quivr. Open source and free to use.
+- **Open Source**: Freedom is beautiful, and so is Attri. Open source and free to use.
 
 ## Demo Highlights 🎥
 
@@ -38,7 +37,7 @@ https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-7056
 
 ## Disclaimer ⚠️
 
-For a little while, Quivr will be only compatible with OpenAI API. 
+For a little while, Attri will be only compatible with OpenAI API.
 
 If you want to use a Local LLM please refer to [v0.0.46](https://github.com/StanGirard/quivr/releases/tag/v0.0.46).
 
@@ -72,13 +71,13 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
   - If you don't have an SSH key set up:
 
   ```bash
-  git clone https://github.com/StanGirard/Quivr.git && cd Quivr
+  git clone https://github.com/StanGirard/Attri.git && cd Attri
   ```
 
   - If you have an SSH key set up or want to add it ([guide here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
 
   ```bash
-  git clone git@github.com:StanGirard/Quivr.git && cd Quivr
+  git clone git@github.com:StanGirard/Attri.git && cd Attri
   ```
 
 - **Step 2**: Use the install helper
@@ -127,7 +126,7 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
 
   All the scripts can be found in the [scripts](scripts/) folder
 
-  > _If you come from an old version of Quivr, run the scripts in [migration script](scripts/) to migrate your data to the new version in the order of date_
+  > _If you come from an old version of Attri, run the scripts in [migration script](scripts/) to migrate your data to the new version in the order of date_
 
 - **Step 5**: Launch the app
 

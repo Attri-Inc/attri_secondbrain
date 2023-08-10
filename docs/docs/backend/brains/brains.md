@@ -4,19 +4,19 @@ sidebar_position: 1
 
 # Introduction to Brains
 
-Quivr has a concept of "Brains". They are ring fenced bodies of information that can be used to provide context to Large Language Models (LLMs) to answer questions on a particular topic.
+Attri has a concept of "Brains". They are ring fenced bodies of information that can be used to provide context to Large Language Models (LLMs) to answer questions on a particular topic.
 
 LLMs are trained on a large variety of data but to answer a question on a specific topic or to be used to make deductions around a specific topic, they need to be supplied with the context of that topic.
 
-Quivr uses brains as an intuitive way to provide that context.
+Attri uses brains as an intuitive way to provide that context.
 
-When a brain is selected in Quivr, the LLM will be provided with only the context of that brain. This allows users to build brains for specific topics and then use them to answer questions about that topic.
+When a brain is selected in Attri, the LLM will be provided with only the context of that brain. This allows users to build brains for specific topics and then use them to answer questions about that topic.
 
-In the future there will be the functionality to share brains with other users of Quivr.
+In the future there will be the functionality to share brains with other users of Attri.
 
 ## How to use Brains
 
-To use a brain, simply select the menu from using the Brain icon in the header at the top right of the Quivr interface.
+To use a brain, simply select the menu from using the Brain icon in the header at the top right of the Attri interface.
 
 You can create a new brain by clicking the "Create Brain" button. You will be prompted to enter a name for the brain. If you wish you can also just use the default brain for your account.
 

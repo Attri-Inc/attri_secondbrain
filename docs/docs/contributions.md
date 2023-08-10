@@ -1,6 +1,6 @@
-# Contributing to Quivr
+# Contributing to Attri
 
-Thanks for your interest in contributing to Quivr! Here you'll find guidelines for contributing and steps on how you can contribute.
+Thanks for your interest in contributing to Attri! Here you'll find guidelines for contributing and steps on how you can contribute.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Thanks for your interest in contributing to Quivr! Here you'll find guidelines f
 
 ## Community
 
-We have a vibrant community over at [Discord](https://discord.gg/HUpRgp2HG8) where you can join discussions and ask questions related to Quivr.
+We have a vibrant community over at [Discord](https://discord.gg/HUpRgp2HG8) where you can join discussions and ask questions related to Attri.
 
 ## Roadmap and Issues
 

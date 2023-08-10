@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Quivr 🧠',
+  title: 'Attri 🧠',
   tagline: 'Your Generative AI second brain',
   favicon: 'img/quivr-logo.ico',
 
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.png',
       navbar: {
-        title: 'Quivr',
+        title: 'Attri',
         logo: {
-          alt: 'Quivr logo',
+          alt: 'Attri logo',
           src: 'img/logo.png',
         },
         items: [
@@ -126,7 +126,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Quivr`,
+        copyright: `Copyright © ${new Date().getFullYear()} Attri`,
       },
       prism: {
         theme: lightCodeTheme,

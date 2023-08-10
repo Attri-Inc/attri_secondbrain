@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Private LLM
 
-Quivr now has the capability to use a private LLM model powered by GPT4All (other open source models coming soon).
+Attri now has the capability to use a private LLM model powered by GPT4All (other open source models coming soon).
 
 This is simular to the functionality provided by the PrivateGPT project.
 

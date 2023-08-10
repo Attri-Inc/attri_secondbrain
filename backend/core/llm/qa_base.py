@@ -207,7 +207,7 @@ class QABaseBrainPicking(BaseBrainPicking):
 
     def get_prompt(self) -> str:
         brain = get_brain_by_id(UUID(self.brain_id))
-        brain_prompt = "Your name is Quivr. You're a helpful assistant.  If you don't know the answer, just say that you don't know, don't try to make up an answer."
+        brain_prompt = "Your name is Attri. You're a helpful assistant.  If you don't know the answer, just say that you don't know, don't try to make up an answer."
 
         if brain and brain.prompt_id:
             brain_prompt_object = get_prompt_by_id(brain.prompt_id)

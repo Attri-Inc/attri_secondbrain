@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'Universal Data Acceptance',
     description: (
       <>
-        Quivr can handle almost any type of data you throw at it. Text, images,
+        Attri can handle almost any type of data you throw at it. Text, images,
         code snippets, we've got you covered.
       </>
     ),
@@ -16,7 +16,7 @@ const FeatureList = [
     title: 'Generative AI',
     description: (
       <>
-        Quivr employs advanced AI to assist you in generating and retrieving information.
+        Attri employs advanced AI to assist you in generating and retrieving information.
       </>
     ),
   },
@@ -24,7 +24,7 @@ const FeatureList = [
     title: 'Fast and Efficient',
     description: (
       <>
-        Designed with speed and efficiency at its core. Quivr ensures rapid access to your data.
+        Designed with speed and efficiency at its core. Attri ensures rapid access to your data.
       </>
     ),
   },
@@ -40,7 +40,7 @@ const FeatureList = [
     title: 'File Compatibility',
     description: (
       <>
-        Quivr is compatible with Text, Markdown, PDF, Powerpoint, Excel, Word, Audio, and Video files.
+        Attri is compatible with Text, Markdown, PDF, Powerpoint, Excel, Word, Audio, and Video files.
       </>
     ),
   },
@@ -48,7 +48,7 @@ const FeatureList = [
     title: 'Open Source',
     description: (
       <>
-        Freedom is beautiful, so is Quivr. Open source and free to use.
+        Freedom is beautiful, so is Attri. Open source and free to use.
       </>
     ),
   },
